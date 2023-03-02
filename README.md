@@ -1,6 +1,6 @@
 # Simple ATM Exercise
 
-This is an exercise developed as part of Module 14 of MIT xPro Full Stack Bootcamp
+This is an exercise developed as part of Module 15 of MIT xPro Full Stack Bootcamp
 
 This project is a *super* basic ATM exercise created using React. It allows the user to withdraw and deposit money from the ATM.
 
